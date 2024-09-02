@@ -37,8 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.github.com/normal88/normal88/blob/main/.github/normal88/snake.yml" alt="Snake animation" />
-
 ###
 
 <div align="center">
